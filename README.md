@@ -12,3 +12,10 @@ Code split into Base Test -> This ensures future proofing -> meaning whenever th
 rest all the test files are expanded from base file.
 
 Included utils.scrollUTil for convenience of reusing the scroll utilities function.
+
+
+Playwright code:
+in the same repo inside a folder called playwright.
+
+Playwright is also not able to turn to bidding page after clicking on login button. When interacting with elements in real, it is fine.
+
