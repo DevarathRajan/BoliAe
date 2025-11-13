@@ -11,4 +11,4 @@ Evidence video in ./screenfiles.
 Code split into Base Test -> This ensures future proofing -> meaning whenever there is chnage in desired capabilities or app versions, only place to input new changes will be the Base Test. Since 
 rest all the test files are expanded from base file.
 
-Included utils.scrollUtil for convenience of reusing the scroll utilities function.
+Included utils.scrollUTil for convenience of reusing the scroll utilities function.
