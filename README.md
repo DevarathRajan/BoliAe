@@ -12,3 +12,10 @@ Code split into Base Test -> This ensures future proofing -> meaning whenever th
 rest all the test files are expanded from base file.
 
 Included utils.scrollUTil for convenience of reusing the scroll utilities function.
+
+Playwright automation:
+
+Please find the playwright automation script in ./Playwright folder.
+The issue noticed is when login the page is not turning to next in playwright. But playwright detects elements in the enxt page. It could be due to wrappers present on the login screen.
+
+used data file to input data to signup screen.
